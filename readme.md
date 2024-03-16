@@ -29,6 +29,10 @@ Warlock is a simple python based social media discovery tool, it leverages how s
 4. When installed run `python main.py [target-username] [site-list]`
 5. Reap your rewards
 
+# To do list
+* [ ] Push latest update
+* [ ] Push new database
+
 
 # Regards
 Credits to the sherlock team for the status code websites.

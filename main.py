@@ -77,8 +77,7 @@ class Main:
             f"[{Fore.YELLOW}+{Fore.RESET}] [{Fore.LIGHTBLACK_EX}{datetime.now().strftime('%H:%M:%S')}{Fore.RESET}] [{Fore.GREEN}{request.status_code}{Fore.RESET}] [{Fore.GREEN}{str(position).rjust(adj, '0')}{Fore.RESET}] [{url}] - [{ed}]"
           )
 
-    except Exception as e:
-      print(e)
+    except:
       pass
 
   def get_lines(file):
@@ -148,3 +147,5 @@ _/j  L l\_!  _//^---^\_
 if __name__ == "__main__":
   atexit.register(Main.exit_func)
   Main.Main()
+  #r = requests.get("https://www.snapchat.com/add/database", headers={'User-Agent' : "Mozilla/5.0 (Windows NT 5.0; Windows NT 5.1; Windows NT 6.0; Windows NT 6.1; Linux; es-VE; rv:52.9.0) Gecko/20100101 Firefox/52.9.0"}).text
+  #snapchat.search(r)

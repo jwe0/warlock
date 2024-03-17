@@ -1,7 +1,7 @@
 import requests
 
 def search(data):
-    print(data)
     for line in data.splitlines():
-        if "<title>" in line:
-            print(line)
+        if "profile-name" and "h1" in line:
+            return line.split(">")[1].replace("</h1", "")
+            

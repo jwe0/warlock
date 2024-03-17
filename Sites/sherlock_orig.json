@@ -1,0 +1,1979 @@
+{
+    "2Dimensions": {
+        "url": "https://2Dimensions.com/a/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "3dnews": {
+        "url": "http://forum.3dnews.ru/member.php?username={}",
+        "type": "site-content",
+        "check-value": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430."
+    },
+    "7Cups": {
+        "url": "https://www.7cups.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "8tracks": {
+        "url": "https://8tracks.com/{}",
+        "type": "site-content",
+        "check-value": "This page has vanished"
+    },
+    "9GAG": {
+        "url": "https://www.9gag.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "APClips": {
+        "url": "https://apclips.com/{}",
+        "type": "site-content",
+        "check-value": "Amateur Porn Content Creators"
+    },
+    "About.me": {
+        "url": "https://about.me/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Academia.edu": {
+        "url": "https://independent.academia.edu/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "AdmireMe.Vip": {
+        "url": "https://admireme.vip/{}",
+        "type": "site-content",
+        "check-value": "Page Not Found"
+    },
+    "Air Pilot Life": {
+        "url": "https://airlinepilot.life/u/{}",
+        "type": "site-content",
+        "check-value": "Oops! That page doesn\u2019t exist or is private"
+    },
+    "Airbit": {
+        "url": "https://airbit.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Airliners": {
+        "url": "https://www.airliners.net/user/{}/profile/photos",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Alik.cz": {
+        "url": "https://www.alik.cz/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "All Things Worn": {
+        "url": "https://www.allthingsworn.com/profile/{}",
+        "type": "site-content",
+        "check-value": "Sell Used Panties"
+    },
+    "AllMyLinks": {
+        "url": "https://allmylinks.com/{}",
+        "type": "site-content",
+        "check-value": "Not Found"
+    },
+    "Amino": {
+        "url": "https://aminoapps.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Anilist": {
+        "url": "https://anilist.co/user/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Apple Developer": {
+        "url": "https://developer.apple.com/forums/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Apple Discussions": {
+        "url": "https://discussions.apple.com/profile/{}",
+        "type": "site-content",
+        "check-value": "The page you tried was not found. You may have used an outdated link or may have typed the address (URL) incorrectly."
+    },
+    "Archive of Our Own": {
+        "url": "https://archiveofourown.org/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Archive.org": {
+        "url": "https://archive.org/details/@{}",
+        "type": "site-content",
+        "check-value": "cannot find account"
+    },
+    "ArtStation": {
+        "url": "https://www.artstation.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Asciinema": {
+        "url": "https://asciinema.org/~{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Ask Fedora": {
+        "url": "https://ask.fedoraproject.org/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "AskFM": {
+        "url": "https://ask.fm/{}",
+        "type": "site-content",
+        "check-value": "Well, apparently not anymore."
+    },
+    "Audiojungle": {
+        "url": "https://audiojungle.net/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Autofrage": {
+        "url": "https://www.autofrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Avizo": {
+        "url": "https://www.avizo.cz/{}/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "BLIP.fm": {
+        "url": "https://blip.fm/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BOOTH": {
+        "url": "https://{}.booth.pm/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Bandcamp": {
+        "url": "https://www.bandcamp.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Bazar.cz": {
+        "url": "https://www.bazar.cz/{}/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Behance": {
+        "url": "https://www.behance.net/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Bezuzyteczna": {
+        "url": "https://bezuzyteczna.pl/uzytkownicy/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BiggerPockets": {
+        "url": "https://www.biggerpockets.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Bikemap": {
+        "url": "https://www.bikemap.net/en/u/{}/routes/created/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BioHacking": {
+        "url": "https://forum.dangerousthings.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BitBucket": {
+        "url": "https://bitbucket.org/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BitCoinForum": {
+        "url": "https://bitcoinforum.com/profile/{}",
+        "type": "site-content",
+        "check-value": "The user whose profile you are trying to view does not exist."
+    },
+    "Bitwarden Forum": {
+        "url": "https://community.bitwarden.com/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Blogger": {
+        "url": "https://{}.blogspot.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BodyBuilding": {
+        "url": "https://bodyspace.bodybuilding.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "BongaCams": {
+        "url": "https://pt.bongacams.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Bookcrossing": {
+        "url": "https://www.bookcrossing.com/mybookshelf/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BraveCommunity": {
+        "url": "https://community.brave.com/u/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BuyMeACoffee": {
+        "url": "https://buymeacoff.ee/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "BuzzFeed": {
+        "url": "https://buzzfeed.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "CGTrader": {
+        "url": "https://www.cgtrader.com/{}",
+        "type": "site-content",
+        "check-value": "3D models for CG digital design and artwork"
+    },
+    "CNET": {
+        "url": "https://www.cnet.com/profiles/{}/",
+        "type": "site-content",
+        "check-value": "null null - CNET"
+    },
+    "CTAN": {
+        "url": "https://ctan.org/author/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Caddy Community": {
+        "url": "https://caddy.community/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Car Talk Community": {
+        "url": "https://community.cartalk.com/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Carbonmade": {
+        "url": "https://{}.carbonmade.com",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Career.habr": {
+        "url": "https://career.habr.com/{}",
+        "type": "site-content",
+        "check-value": "<h1>\u041e\u0448\u0438\u0431\u043a\u0430 404</h1>"
+    },
+    "Championat": {
+        "url": "https://www.championat.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Chaos": {
+        "url": "https://chaos.social/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Chatujme.cz": {
+        "url": "https://profil.chatujme.cz/{}",
+        "type": "site-content",
+        "check-value": "Neexistujic\u00ed profil"
+    },
+    "ChaturBate": {
+        "url": "https://chaturbate.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Chess": {
+        "url": "https://www.chess.com/member/{}",
+        "type": "site-content",
+        "check-value": "Username is valid"
+    },
+    "Choice Community": {
+        "url": "https://choice.community/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Clapper": {
+        "url": "https://clapperapp.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "CloudflareCommunity": {
+        "url": "https://community.cloudflare.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Clozemaster": {
+        "url": "https://www.clozemaster.com/players/{}",
+        "type": "site-content",
+        "check-value": "Oh no! Player not found."
+    },
+    "Clubhouse": {
+        "url": "https://www.clubhouse.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Code Snippet Wiki": {
+        "url": "https://codesnippets.fandom.com/wiki/User:{}",
+        "type": "site-content",
+        "check-value": "This user has not filled out their profile page yet"
+    },
+    "Codecademy": {
+        "url": "https://www.codecademy.com/profiles/{}",
+        "type": "site-content",
+        "check-value": "This profile could not be found"
+    },
+    "Codechef": {
+        "url": "https://www.codechef.com/users/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Codeforces": {
+        "url": "https://codeforces.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Codepen": {
+        "url": "https://codepen.io/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Coders Rank": {
+        "url": "https://profile.codersrank.io/user/{}/",
+        "type": "site-content",
+        "check-value": "not a registered member"
+    },
+    "Coderwall": {
+        "url": "https://coderwall.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Codewars": {
+        "url": "https://www.codewars.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Coinvote": {
+        "url": "https://coinvote.cc/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "ColourLovers": {
+        "url": "https://www.colourlovers.com/lover/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Contently": {
+        "url": "https://{}.contently.com/",
+        "type": "site-content",
+        "check-value": "<title>Leading Content Marketing Platform | Contently</title>"
+    },
+    "Coroflot": {
+        "url": "https://www.coroflot.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Cracked": {
+        "url": "https://www.cracked.com/members/{}/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Crevado": {
+        "url": "https://{}.crevado.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Crowdin": {
+        "url": "https://crowdin.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Cryptomator Forum": {
+        "url": "https://community.cryptomator.org/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Cults3D": {
+        "url": "https://cults3d.com/en/users/{}/creations",
+        "type": "site-content",
+        "check-value": "Oh dear, this page is not working!"
+    },
+    "DEV Community": {
+        "url": "https://dev.to/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "DMOJ": {
+        "url": "https://dmoj.ca/user/{}",
+        "type": "site-content",
+        "check-value": "No such user"
+    },
+    "DailyMotion": {
+        "url": "https://www.dailymotion.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Dealabs": {
+        "url": "https://www.dealabs.com/profile/{}",
+        "type": "site-content",
+        "check-value": "La page que vous essayez"
+    },
+    "DeviantART": {
+        "url": "https://{}.deviantart.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Discogs": {
+        "url": "https://www.discogs.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Discuss.Elastic.co": {
+        "url": "https://discuss.elastic.co/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Disqus": {
+        "url": "https://disqus.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Docker Hub": {
+        "url": "https://hub.docker.com/u/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Dribbble": {
+        "url": "https://dribbble.com/{}",
+        "type": "site-content",
+        "check-value": "Whoops, that page is gone."
+    },
+    "Duolingo": {
+        "url": "https://www.duolingo.com/profile/{}",
+        "type": "site-content",
+        "check-value": "{\"users\":[]}"
+    },
+    "Eintracht Frankfurt Forum": {
+        "url": "https://community.eintracht.de/fans/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Envato Forum": {
+        "url": "https://forums.envato.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Erome": {
+        "url": "https://www.erome.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Etsy": {
+        "url": "https://www.etsy.com/shop/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Euw": {
+        "url": "https://euw.op.gg/summoner/userName={}",
+        "type": "site-content",
+        "check-value": "This summoner is not registered at OP.GG. Please check spelling."
+    },
+    "Exposure": {
+        "url": "https://{}.exposure.co/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "EyeEm": {
+        "url": "https://www.eyeem.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "F3.cool": {
+        "url": "https://f3.cool/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Fameswap": {
+        "url": "https://fameswap.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Fandom": {
+        "url": "https://www.fandom.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Finanzfrage": {
+        "url": "https://www.finanzfrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Fiverr": {
+        "url": "https://www.fiverr.com/{}",
+        "type": "site-content",
+        "check-value": "\"status\":\"success\""
+    },
+    "Flickr": {
+        "url": "https://www.flickr.com/people/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Flightradar24": {
+        "url": "https://my.flightradar24.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Flipboard": {
+        "url": "https://flipboard.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Football": {
+        "url": "https://www.rusfootball.info/user/{}/",
+        "type": "site-content",
+        "check-value": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441 \u0442\u0430\u043a\u0438\u043c \u0438\u043c\u0435\u043d\u0435\u043c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d"
+    },
+    "FortniteTracker": {
+        "url": "https://fortnitetracker.com/profile/all/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Forum Ophilia": {
+        "url": "https://www.forumophilia.com/profile.php?mode=viewprofile&u={}",
+        "type": "site-content",
+        "check-value": "that user does not exist"
+    },
+    "Fosstodon": {
+        "url": "https://fosstodon.org/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Freelance.habr": {
+        "url": "https://freelance.habr.com/freelancers/{}",
+        "type": "site-content",
+        "check-value": "<div class=\"icon_user_locked\"></div>"
+    },
+    "Freelancer": {
+        "url": "https://www.freelancer.com/u/{}",
+        "type": "site-content",
+        "check-value": "\"users\":{}"
+    },
+    "Freesound": {
+        "url": "https://freesound.org/people/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "G2G": {
+        "url": "https://www.g2g.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "GNOME VCS": {
+        "url": "https://gitlab.gnome.org/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "GaiaOnline": {
+        "url": "https://www.gaiaonline.com/profiles/{}",
+        "type": "site-content",
+        "check-value": "No user ID specified or user does not exist"
+    },
+    "Gamespot": {
+        "url": "https://www.gamespot.com/profile/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GeeksforGeeks": {
+        "url": "https://auth.geeksforgeeks.org/user/{}",
+        "type": "site-content",
+        "check-value": "<title>Login GeeksforGeeks</title>"
+    },
+    "Genius (Artists)": {
+        "url": "https://genius.com/artists/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Genius (Users)": {
+        "url": "https://genius.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Gesundheitsfrage": {
+        "url": "https://www.gesundheitsfrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GetMyUni": {
+        "url": "https://www.getmyuni.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Giant Bomb": {
+        "url": "https://www.giantbomb.com/profile/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Giphy": {
+        "url": "https://giphy.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GitBook": {
+        "url": "https://{}.gitbook.io/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GitHub": {
+        "url": "https://www.github.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GitLab": {
+        "url": "https://gitlab.com/{}",
+        "type": "site-content",
+        "check-value": "[]"
+    },
+    "Gitee": {
+        "url": "https://gitee.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "GoodReads": {
+        "url": "https://www.goodreads.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Google Play": {
+        "url": "https://play.google.com/store/apps/developer?id={}",
+        "type": "site-content",
+        "check-value": "the requested URL was not found on this server"
+    },
+    "Gradle": {
+        "url": "https://plugins.gradle.org/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Grailed": {
+        "url": "https://www.grailed.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Gravatar": {
+        "url": "http://en.gravatar.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Gumroad": {
+        "url": "https://www.gumroad.com/{}",
+        "type": "site-content",
+        "check-value": "Page not found (404) - Gumroad"
+    },
+    "Gutefrage": {
+        "url": "https://www.gutefrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "HEXRPG": {
+        "url": "https://www.hexrpg.com/userinfo/{}",
+        "type": "site-content",
+        "check-value": "Error : User "
+    },
+    "HackTheBox": {
+        "url": "https://forum.hackthebox.eu/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Hackaday": {
+        "url": "https://hackaday.io/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "HackerEarth": {
+        "url": "https://hackerearth.com/@{}",
+        "type": "site-content",
+        "check-value": "404. URL not found."
+    },
+    "HackerNews": {
+        "url": "https://news.ycombinator.com/user?id={}",
+        "type": "site-content",
+        "check-value": "No such user."
+    },
+    "HackerOne": {
+        "url": "https://hackerone.com/{}",
+        "type": "site-content",
+        "check-value": "Page not found"
+    },
+    "HackerRank": {
+        "url": "https://hackerrank.com/{}",
+        "type": "site-content",
+        "check-value": "Something went wrong"
+    },
+    "Harvard Scholar": {
+        "url": "https://scholar.harvard.edu/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Hashnode": {
+        "url": "https://hashnode.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Heavy-R": {
+        "url": "https://www.heavy-r.com/user/{}",
+        "type": "site-content",
+        "check-value": "Channel not found"
+    },
+    "Holopin": {
+        "url": "https://holopin.io/@{}",
+        "type": "site-content",
+        "check-value": "true"
+    },
+    "Houzz": {
+        "url": "https://houzz.com/user/{}",
+        "type": "site-content",
+        "check-value": "The page you requested was not found."
+    },
+    "HubPages": {
+        "url": "https://hubpages.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Hubski": {
+        "url": "https://hubski.com/user/{}",
+        "type": "site-content",
+        "check-value": "No such user"
+    },
+    "ICQ": {
+        "url": "https://icq.im/{}/en",
+        "type": "status-code",
+        "check-value": null
+    },
+    "IFTTT": {
+        "url": "https://www.ifttt.com/p/{}",
+        "type": "site-content",
+        "check-value": "The requested page or file does not exist"
+    },
+    "IRC-Galleria": {
+        "url": "https://irc-galleria.net/user/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Icons8 Community": {
+        "url": "https://community.icons8.com/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Image Fap": {
+        "url": "https://www.imagefap.com/profile/{}",
+        "type": "site-content",
+        "check-value": "Not found"
+    },
+    "ImgUp.cz": {
+        "url": "https://imgup.cz/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Imgur": {
+        "url": "https://imgur.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Instructables": {
+        "url": "https://www.instructables.com/member/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Intigriti": {
+        "url": "https://app.intigriti.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Ionic Forum": {
+        "url": "https://forum.ionicframework.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Issuu": {
+        "url": "https://issuu.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Itch.io": {
+        "url": "https://{}.itch.io/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Itemfix": {
+        "url": "https://www.itemfix.com/c/{}",
+        "type": "site-content",
+        "check-value": "<title>ItemFix - Channel: </title>"
+    },
+    "Jellyfin Weblate": {
+        "url": "https://translate.jellyfin.org/user/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Jimdo": {
+        "url": "https://{}.jimdosite.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Joplin Forum": {
+        "url": "https://discourse.joplinapp.org/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "KEAKR": {
+        "url": "https://www.keakr.com/en/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Kaggle": {
+        "url": "https://www.kaggle.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Keybase": {
+        "url": "https://keybase.io/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Kik": {
+        "url": "https://kik.me/{}",
+        "type": "site-content",
+        "check-value": "The page you requested was not found"
+    },
+    "Kongregate": {
+        "url": "https://www.kongregate.com/accounts/{}",
+        "type": "site-content",
+        "check-value": "Sorry, no account with that name was found."
+    },
+    "LOR": {
+        "url": "https://www.linux.org.ru/people/{}/profile",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Launchpad": {
+        "url": "https://launchpad.net/~{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "LeetCode": {
+        "url": "https://leetcode.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "LessWrong": {
+        "url": "https://www.lesswrong.com/users/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Letterboxd": {
+        "url": "https://letterboxd.com/{}",
+        "type": "site-content",
+        "check-value": "Sorry, we can\u2019t find the page you\u2019ve requested."
+    },
+    "Lichess": {
+        "url": "https://lichess.org/@/{}",
+        "type": "site-content",
+        "check-value": "Page not found!"
+    },
+    "Linktree": {
+        "url": "https://linktr.ee/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Listed": {
+        "url": "https://listed.to/@{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "LiveJournal": {
+        "url": "https://{}.livejournal.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Lobsters": {
+        "url": "https://lobste.rs/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "LottieFiles": {
+        "url": "https://lottiefiles.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "LushStories": {
+        "url": "https://www.lushstories.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "MMORPG Forum": {
+        "url": "https://forums.mmorpg.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Mapify": {
+        "url": "https://mapify.travel/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Medium": {
+        "url": "https://medium.com/@{}",
+        "type": "site-content",
+        "check-value": "<body"
+    },
+    "Memrise": {
+        "url": "https://www.memrise.com/user/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Minecraft": {
+        "url": "https://api.mojang.com/users/profiles/minecraft/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "MixCloud": {
+        "url": "https://www.mixcloud.com/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Modelhub": {
+        "url": "https://www.modelhub.com/{}/videos",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Monkeytype": {
+        "url": "https://monkeytype.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Motherless": {
+        "url": "https://motherless.com/m/{}",
+        "type": "site-content",
+        "check-value": "no longer a member"
+    },
+    "Motorradfrage": {
+        "url": "https://www.motorradfrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "MyAnimeList": {
+        "url": "https://myanimelist.net/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "MyMiniFactory": {
+        "url": "https://www.myminifactory.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Mydramalist": {
+        "url": "https://www.mydramalist.com/profile/{}",
+        "type": "site-content",
+        "check-value": "Sign in - MyDramaList"
+    },
+    "Myspace": {
+        "url": "https://myspace.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "NICommunityForum": {
+        "url": "https://community.native-instruments.com/profile/{}",
+        "type": "site-content",
+        "check-value": "The page you were looking for could not be found."
+    },
+    "NationStates Nation": {
+        "url": "https://nationstates.net/nation={}",
+        "type": "site-content",
+        "check-value": "Was this your nation? It may have ceased to exist due to inactivity, but can rise again!"
+    },
+    "NationStates Region": {
+        "url": "https://nationstates.net/region={}",
+        "type": "site-content",
+        "check-value": "does not exist."
+    },
+    "Naver": {
+        "url": "https://blog.naver.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Needrom": {
+        "url": "https://www.needrom.com/author/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Newgrounds": {
+        "url": "https://{}.newgrounds.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Nextcloud Forum": {
+        "url": "https://help.nextcloud.com/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Nightbot": {
+        "url": "https://nightbot.tv/t/{}/commands",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Ninja Kiwi": {
+        "url": "https://ninjakiwi.com/profile/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "NintendoLife": {
+        "url": "https://www.nintendolife.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "NitroType": {
+        "url": "https://www.nitrotype.com/racer/{}",
+        "type": "site-content",
+        "check-value": "<title>Nitro Type | Competitive Typing Game | Race Your Friends</title>"
+    },
+    "NotABug.org": {
+        "url": "https://notabug.org/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Nyaa.si": {
+        "url": "https://nyaa.si/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "OGUsers": {
+        "url": "https://ogu.gg/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "OpenStreetMap": {
+        "url": "https://www.openstreetmap.org/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Opensource": {
+        "url": "https://opensource.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Oracle Community": {
+        "url": "https://community.oracle.com/people/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "OurDJTalk": {
+        "url": "https://ourdjtalk.com/members?username={}",
+        "type": "site-content",
+        "check-value": "The specified member cannot be found"
+    },
+    "PCGamer": {
+        "url": "https://forums.pcgamer.com/members/?username={}",
+        "type": "site-content",
+        "check-value": "The specified member cannot be found. Please enter a member's entire name."
+    },
+    "PSNProfiles.com": {
+        "url": "https://psnprofiles.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Packagist": {
+        "url": "https://packagist.org/packages/{}/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Pastebin": {
+        "url": "https://pastebin.com/u/{}",
+        "type": "site-content",
+        "check-value": "Not Found (#404)"
+    },
+    "Patreon": {
+        "url": "https://www.patreon.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "PepperIT": {
+        "url": "https://www.pepper.it/profile/{}/overview",
+        "type": "site-content",
+        "check-value": "La pagina che hai provato a raggiungere non si trova qui"
+    },
+    "Periscope": {
+        "url": "https://www.periscope.tv/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Pinkbike": {
+        "url": "https://www.pinkbike.com/u/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "PlayStore": {
+        "url": "https://play.google.com/store/apps/developer?id={}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "PocketStars": {
+        "url": "https://pocketstars.com/{}",
+        "type": "site-content",
+        "check-value": "Join Your Favorite Adult Stars"
+    },
+    "Pokemon Showdown": {
+        "url": "https://pokemonshowdown.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Polarsteps": {
+        "url": "https://polarsteps.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Polygon": {
+        "url": "https://www.polygon.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Polymart": {
+        "url": "https://polymart.org/user/{}",
+        "type": "site-content",
+        "check-value": "Looks like we couldn't find this user. Sorry!"
+    },
+    "Pornhub": {
+        "url": "https://pornhub.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "ProductHunt": {
+        "url": "https://www.producthunt.com/@{}",
+        "type": "site-content",
+        "check-value": "We seem to have lost this page"
+    },
+    "PromoDJ": {
+        "url": "http://promodj.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "PyPi": {
+        "url": "https://pypi.org/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Rajce.net": {
+        "url": "https://{}.rajce.idnes.cz/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Rate Your Music": {
+        "url": "https://rateyourmusic.com/~{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Rclone Forum": {
+        "url": "https://forum.rclone.org/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "RedTube": {
+        "url": "https://www.redtube.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Redbubble": {
+        "url": "https://www.redbubble.com/people/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Reddit": {
+        "url": "https://www.reddit.com/user/{}",
+        "type": "site-content",
+        "check-value": "Sorry, nobody on Reddit goes by that name."
+    },
+    "Reisefrage": {
+        "url": "https://www.reisefrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Replit.com": {
+        "url": "https://replit.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "ResearchGate": {
+        "url": "https://www.researchgate.net/profile/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "ReverbNation": {
+        "url": "https://www.reverbnation.com/{}",
+        "type": "site-content",
+        "check-value": "Sorry, we couldn't find that page"
+    },
+    "Roblox": {
+        "url": "https://www.roblox.com/user.aspx?username={}",
+        "type": "site-content",
+        "check-value": "Page cannot be found or no longer exists"
+    },
+    "RocketTube": {
+        "url": "https://www.rockettube.com/{}",
+        "type": "site-content",
+        "check-value": "OOPS! Houston, we have a problem"
+    },
+    "RoyalCams": {
+        "url": "https://royalcams.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "RubyGems": {
+        "url": "https://rubygems.org/profiles/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Rumble": {
+        "url": "https://rumble.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "RuneScape": {
+        "url": "https://apps.runescape.com/runemetrics/app/overview/player/{}",
+        "type": "site-content",
+        "check-value": "{\"error\":\"NO_PROFILE\",\"loggedIn\":\"false\"}"
+    },
+    "SWAPD": {
+        "url": "https://swapd.co/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Sbazar.cz": {
+        "url": "https://www.sbazar.cz/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Scratch": {
+        "url": "https://scratch.mit.edu/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Scribd": {
+        "url": "https://www.scribd.com/{}",
+        "type": "site-content",
+        "check-value": "Page not found"
+    },
+    "ShitpostBot5000": {
+        "url": "https://www.shitpostbot.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Shpock": {
+        "url": "https://www.shpock.com/shop/{}/items",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Signal": {
+        "url": "https://community.signalusers.org/u/{}",
+        "type": "site-content",
+        "check-value": "Oops! That page doesn\u2019t exist or is private."
+    },
+    "Sketchfab": {
+        "url": "https://sketchfab.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Slack": {
+        "url": "https://{}.slack.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Slant": {
+        "url": "https://www.slant.co/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Slashdot": {
+        "url": "https://slashdot.org/~{}",
+        "type": "site-content",
+        "check-value": "user you requested does not exist"
+    },
+    "SlideShare": {
+        "url": "https://slideshare.net/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Slides": {
+        "url": "https://slides.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "SmugMug": {
+        "url": "https://{}.smugmug.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Smule": {
+        "url": "https://www.smule.com/{}",
+        "type": "site-content",
+        "check-value": "Smule | Page Not Found (404)"
+    },
+    "Snapchat": {
+        "url": "https://www.snapchat.com/add/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "SoundCloud": {
+        "url": "https://soundcloud.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "SourceForge": {
+        "url": "https://sourceforge.net/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "SoylentNews": {
+        "url": "https://soylentnews.org/~{}",
+        "type": "site-content",
+        "check-value": "The user you requested does not exist, no matter how much you wish this might be the case."
+    },
+    "Speedrun.com": {
+        "url": "https://speedrun.com/user/{}",
+        "type": "site-content",
+        "check-value": "Not found"
+    },
+    "Splice": {
+        "url": "https://splice.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Splits.io": {
+        "url": "https://splits.io/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Sporcle": {
+        "url": "https://www.sporcle.com/user/{}/people",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Sportlerfrage": {
+        "url": "https://www.sportlerfrage.net/nutzer/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "SportsRU": {
+        "url": "https://www.sports.ru/profile/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Spotify": {
+        "url": "https://open.spotify.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Star Citizen": {
+        "url": "https://robertsspaceindustries.com/citizens/{}",
+        "type": "site-content",
+        "check-value": "404"
+    },
+    "SteamGroup": {
+        "url": "https://steamcommunity.com/groups/{}",
+        "type": "site-content",
+        "check-value": "No group could be retrieved for the given URL"
+    },
+    "Strava": {
+        "url": "https://www.strava.com/athletes/{}",
+        "type": "site-content",
+        "check-value": "Strava | Running, Cycling &amp; Hiking App - Train, Track &amp; Share"
+    },
+    "SublimeForum": {
+        "url": "https://forum.sublimetext.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "TETR.IO": {
+        "url": "https://ch.tetr.io/u/{}",
+        "type": "site-content",
+        "check-value": "No such user!"
+    },
+    "TLDR Legal": {
+        "url": "https://tldrlegal.com/users/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "TRAKTRAIN": {
+        "url": "https://traktrain.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Telegram": {
+        "url": "https://t.me/{}",
+        "type": "site-content",
+        "check-value": "<meta property=\"og:description\" content=\"\">"
+    },
+    "Tellonym.me": {
+        "url": "https://tellonym.me/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Tenor": {
+        "url": "https://tenor.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "ThemeForest": {
+        "url": "https://themeforest.net/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "TnAFlix": {
+        "url": "https://www.tnaflix.com/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "TradingView": {
+        "url": "https://www.tradingview.com/u/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Trakt": {
+        "url": "https://www.trakt.tv/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "TrashboxRU": {
+        "url": "https://trashbox.ru/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Trawelling": {
+        "url": "https://traewelling.de/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Trello": {
+        "url": "https://trello.com/{}",
+        "type": "site-content",
+        "check-value": "model not found"
+    },
+    "TryHackMe": {
+        "url": "https://tryhackme.com/p/{}",
+        "type": "site-content",
+        "check-value": "{\"success\":false}"
+    },
+    "Tuna": {
+        "url": "https://tuna.voicemod.net/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Tweakers": {
+        "url": "https://tweakers.net/gallery/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Twitch": {
+        "url": "https://www.twitch.tv/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Twitter": {
+        "url": "https://twitter.com/{}",
+        "type": "site-content",
+        "check-value": "<div class=\"error-panel\"><span>User "
+    },
+    "Typeracer": {
+        "url": "https://data.typeracer.com/pit/profile?user={}",
+        "type": "site-content",
+        "check-value": "Profile Not Found"
+    },
+    "Ultimate-Guitar": {
+        "url": "https://ultimate-guitar.com/u/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Unsplash": {
+        "url": "https://unsplash.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "VK": {
+        "url": "https://vk.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "VSCO": {
+        "url": "https://vsco.co/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Velomania": {
+        "url": "https://forum.velomania.ru/member.php?username={}",
+        "type": "site-content",
+        "check-value": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430."
+    },
+    "Venmo": {
+        "url": "https://account.venmo.com/u/{}",
+        "type": "site-content",
+        "check-value": [
+            "Venmo | Page Not Found"
+        ]
+    },
+    "Vero": {
+        "url": "https://vero.co/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Vimeo": {
+        "url": "https://vimeo.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "VirusTotal": {
+        "url": "https://www.virustotal.com/gui/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "WICG Forum": {
+        "url": "https://discourse.wicg.io/u/{}/summary",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Warrior Forum": {
+        "url": "https://www.warriorforum.com/members/{}.html",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Wattpad": {
+        "url": "https://www.wattpad.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "WebNode": {
+        "url": "https://{}.webnode.cz/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Weblate": {
+        "url": "https://hosted.weblate.org/user/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Weebly": {
+        "url": "https://{}.weebly.com/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Wikidot": {
+        "url": "http://www.wikidot.com/user:info/{}",
+        "type": "site-content",
+        "check-value": "User does not exist."
+    },
+    "Wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Special:CentralAuth/{}?uselang=qqx",
+        "type": "site-content",
+        "check-value": "centralauth-admin-nonexistent:"
+    },
+    "Windy": {
+        "url": "https://community.windy.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Wix": {
+        "url": "https://{}.wix.com",
+        "type": "status-code",
+        "check-value": null
+    },
+    "WolframalphaForum": {
+        "url": "https://community.wolfram.com/web/{}/home",
+        "type": "status-code",
+        "check-value": null
+    },
+    "WordPress": {
+        "url": "https://{}.wordpress.com/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "WordPressOrg": {
+        "url": "https://profiles.wordpress.org/{}/",
+        "type": "site-content",
+        "check-value": null
+    },
+    "Wordnik": {
+        "url": "https://www.wordnik.com/users/{}",
+        "type": "site-content",
+        "check-value": "Page Not Found"
+    },
+    "Wykop": {
+        "url": "https://www.wykop.pl/ludzie/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Xbox Gamertag": {
+        "url": "https://xboxgamertag.com/search/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Xvideos": {
+        "url": "https://xvideos.com/profiles/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "YandexMusic": {
+        "url": "https://music.yandex/users/{}/playlists",
+        "type": "status-code",
+        "check-value": null
+    },
+    "YouNow": {
+        "url": "https://www.younow.com/{}/",
+        "type": "site-content",
+        "check-value": "No users found"
+    },
+    "YouPic": {
+        "url": "https://youpic.com/photographer/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "YouPorn": {
+        "url": "https://youporn.com/uservids/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "Zhihu": {
+        "url": "https://www.zhihu.com/people/{}",
+        "type": "site-content",
+        "check-value": "404"
+    },
+    "akniga": {
+        "url": "https://akniga.org/profile/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "authorSTREAM": {
+        "url": "http://www.authorstream.com/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "babyRU": {
+        "url": "https://www.baby.ru/u/{}/",
+        "type": "site-content",
+        "check-value": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u0438\u0441\u043a\u0430\u043b\u0438, \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u0430"
+    },
+    "babyblogRU": {
+        "url": "https://www.babyblog.ru/user/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "chaos.social": {
+        "url": "https://chaos.social/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "couchsurfing": {
+        "url": "https://www.couchsurfing.com/people/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "d3RU": {
+        "url": "https://d3.ru/user/{}/posts",
+        "type": "status-code",
+        "check-value": null
+    },
+    "dailykos": {
+        "url": "https://www.dailykos.com/user/{}",
+        "type": "site-content",
+        "check-value": "{\"result\":true,\"message\":null}"
+    },
+    "datingRU": {
+        "url": "http://dating.ru/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "devRant": {
+        "url": "https://devrant.com/users/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "drive2": {
+        "url": "https://www.drive2.ru/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "eGPU": {
+        "url": "https://egpu.io/forums/profile/{}/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "eintracht": {
+        "url": "https://community.eintracht.de/fans/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "fixya": {
+        "url": "https://www.fixya.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "fl": {
+        "url": "https://www.fl.ru/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "forum_guns": {
+        "url": "https://forum.guns.ru/forummisc/blog/{}",
+        "type": "site-content",
+        "check-value": "action=https://forum.guns.ru/forummisc/blog/search"
+    },
+    "freecodecamp": {
+        "url": "https://www.freecodecamp.org/{}",
+        "type": "site-content",
+        "check-value": "{}"
+    },
+    "furaffinity": {
+        "url": "https://www.furaffinity.net/user/{}",
+        "type": "site-content",
+        "check-value": "This user cannot be found."
+    },
+    "geocaching": {
+        "url": "https://www.geocaching.com/p/default.aspx?u={}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "gfycat": {
+        "url": "https://gfycat.com/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "habr": {
+        "url": "https://habr.com/ru/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "hackster": {
+        "url": "https://www.hackster.io/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "hunting": {
+        "url": "https://www.hunting.ru/forum/members/?username={}",
+        "type": "site-content",
+        "check-value": "\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0438\u043c\u044f."
+    },
+    "iMGSRC.RU": {
+        "url": "https://imgsrc.ru/main/user.php?user={}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "igromania": {
+        "url": "http://forum.igromania.ru/member.php?username={}",
+        "type": "site-content",
+        "check-value": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430."
+    },
+    "interpals": {
+        "url": "https://www.interpals.net/{}",
+        "type": "site-content",
+        "check-value": "The requested user does not exist or is inactive"
+    },
+    "irecommend": {
+        "url": "https://irecommend.ru/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "jbzd.com.pl": {
+        "url": "https://jbzd.com.pl/uzytkownik/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "jeuxvideo": {
+        "url": "http://www.jeuxvideo.com/profil/{}?mode=infos",
+        "type": "site-content",
+        "check-value": "Vous \u00eates"
+    },
+    "kofi": {
+        "url": "https://ko-fi.com/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "kwork": {
+        "url": "https://kwork.ru/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "labpentestit": {
+        "url": "https://lab.pentestit.ru/profile/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "last.fm": {
+        "url": "https://last.fm/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "leasehackr": {
+        "url": "https://forum.leasehackr.com/u/{}/summary/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "livelib": {
+        "url": "https://www.livelib.ru/reader/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mastodon.cloud": {
+        "url": "https://mastodon.cloud/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mastodon.social": {
+        "url": "https://mastodon.social/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mastodon.technology": {
+        "url": "https://mastodon.technology/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mastodon.xyz": {
+        "url": "https://mastodon.xyz/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/perfil/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "metacritic": {
+        "url": "https://www.metacritic.com/user/{}",
+        "type": "site-content",
+        "check-value": "User not found"
+    },
+    "minds": {
+        "url": "https://www.minds.com/{}/",
+        "type": "site-content",
+        "check-value": "\"valid\":true"
+    },
+    "moikrug": {
+        "url": "https://moikrug.ru/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "mstdn.io": {
+        "url": "https://mstdn.io/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "nairaland.com": {
+        "url": "https://www.nairaland.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "nnRU": {
+        "url": "https://{}.www.nn.ru/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "note": {
+        "url": "https://note.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "npm": {
+        "url": "https://www.npmjs.com/~{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "opennet": {
+        "url": "https://www.opennet.ru/~{}",
+        "type": "site-content",
+        "check-value": "\u0418\u043c\u044f \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e"
+    },
+    "osu!": {
+        "url": "https://osu.ppy.sh/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "phpRU": {
+        "url": "https://php.ru/forum/members/?username={}",
+        "type": "site-content",
+        "check-value": "\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0438\u043c\u044f."
+    },
+    "pikabu": {
+        "url": "https://pikabu.ru/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "pr0gramm": {
+        "url": "https://pr0gramm.com/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "prog.hu": {
+        "url": "https://prog.hu/azonosito/info/{}",
+        "type": "site-content",
+        "check-value": null
+    },
+    "queer.af": {
+        "url": "https://queer.af/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "satsisRU": {
+        "url": "https://satsis.info/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "sessionize": {
+        "url": "https://sessionize.com/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "skyrock": {
+        "url": "https://{}.skyrock.com/",
+        "type": "status-code",
+        "check-value": null
+    },
+    "social.tchncs.de": {
+        "url": "https://social.tchncs.de/@{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "spletnik": {
+        "url": "https://spletnik.ru/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "svidbook": {
+        "url": "https://www.svidbook.ru/user/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "toster": {
+        "url": "https://www.toster.ru/user/{}/answers",
+        "type": "status-code",
+        "check-value": null
+    },
+    "uid": {
+        "url": "http://uid.me/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "wiki.vg": {
+        "url": "https://wiki.vg/User:{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "xHamster": {
+        "url": "https://xhamster.com/users/{}",
+        "type": "status-code",
+        "check-value": null
+    },
+    "znanylekarz.pl": {
+        "url": "https://www.znanylekarz.pl/{}",
+        "type": "status-code",
+        "check-value": null
+    }
+}

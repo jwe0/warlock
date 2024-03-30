@@ -39,3 +39,6 @@ Warlock will also attempt to pull extra data from certain websites this can be u
 
 # Regards
 Credits to the sherlock team for the status code websites.
+
+# Regards
+I take no legal responsibility for any negative actions committed with my software. This was made for ethical purposes only <3.
